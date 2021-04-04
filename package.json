@@ -1,0 +1,23 @@
+{
+  "name": "Mongoose_Practice",
+  "version": "1.0.0",
+  "description": "Working with Mongoose for the first time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jon-D-Smith/Mongoose_Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jon-D-Smith/Mongoose_Practice/issues"
+  },
+  "homepage": "https://github.com/Jon-D-Smith/Mongoose_Practice#readme",
+  "dependencies": {
+    "mongoose": "^5.12.3"
+  }
+}
